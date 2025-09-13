@@ -1,0 +1,16 @@
+Subject_id,Age,Age_group,Gender,Race ,Capture_Device,capture_date,lighting
+1,39,31-40,Male,Black/Africandescent,Samsung S24,7/27/2025,Indoor_studio
+2,30,21-30,Female,Black/Africandescent,iPhone X,7/27/2025,Indoor_studio
+3,41,41-50,Male,Black/Africandescent,Poco X6 Android,7/27/2025,Indoor_studio
+4,49,41-50,Male,Black/Africandescent,iPhone 14,7/27/2025,Indoor_studio
+5,34,31-40,Male,Caucasian,Google pixel 7a,7/27/2025,Indoor_studio
+6,20,11-20,Male,Caucasian,Iphone 12 mini,7/27/2025,Indoor_studio
+7,47,41-50,Female,Caucasian,iPhone 6s,7/27/2025,Indoor_studio
+8,52,51-60,Male,Caucasian,Google Pixel 9,7/27/2025,Indoor_studio
+9,31,31-40,Female,Caucasian,Google Pixel 9,7/27/2025,Indoor_studio
+10,48,41-50,Male,East/SouthEast Asian,IPhone 13 Pro ,7/27/2025,Indoor_studio
+11,43,41-50,Female,East/SouthEast Asian,Samsung S22,7/27/2025,Indoor_studio
+12,25,21-30,Female,Latinx/Hispanic,iPhone 15,7/27/2025,Indoor_studio
+13,44,41-50,Male,South Asian,Iphone 16pro max,7/27/2025,Indoor_studio
+14,38,31-40,Female,South Asian,Google Pixel 6,7/27/2025,Indoor_studio
+15,23,21-30,Male,South Asian,Iphone 12,7/27/2025,Indoor_studio
