@@ -26,8 +26,8 @@ The dataset comprises **14,000+** ear images from **2,000** unique individuals, 
 ### 🧩 Like the dataset but need different data? We can collect a custom dataset just for you - learn more about our data collection services [here](https://unidata.pro/datasets/human-ear-detection-biometric-dataset/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=ear-detection-dataset)
 
 ## Similar Datasets:
-1. [Forensic Fingerprint Dataset](https://unidata.pro/datasets/forensic-fingerprint-dataset/?utm_source=huggingface-biometrics&utm_medium=referral&utm_campaign=ear-detection-dataset)
-2. [Facial Keypoint Detection Dataset](https://unidata.pro/datasets/facial-keypoint-detection/?utm_source=huggingface-biometrics&utm_medium=referral&utm_campaign=ear-detection-dataset)
-3. [Body Measurements Image Dataset](https://unidata.pro/datasets/body-measurements-image-dataset/?utm_source=huggingface-biometrics&utm_medium=referral&utm_campaign=ear-detection-dataset)
+1. [Forensic Fingerprint Dataset](https://unidata.pro/datasets/forensic-fingerprint-dataset/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=ear-detection-dataset)
+2. [Facial Keypoint Detection Dataset](https://unidata.pro/datasets/facial-keypoint-detection/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=ear-detection-dataset)
+3. [Body Measurements Image Dataset](https://unidata.pro/datasets/body-measurements-image-dataset/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=ear-detection-dataset)
 
 ## 🌐 [UniData](https://unidata.pro/datasets/human-ear-detection-biometric-dataset/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=ear-detection-dataset) - your trusted data partner. Unique, accurate, thoroughly collected and annotated data designed to fuel your AI/ML success.
