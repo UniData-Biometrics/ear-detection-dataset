@@ -1,5 +1,6 @@
 # Ear Detection - 14,000+ Images
-The dataset comprises **14,000+** ear images from **2,000** unique individuals, paired with reference face photos and demographic labels. Designed for **ear recognition** and **biometric identification**, it helps research in **human ear detection**, **recognition accuracy**, and **biometric systems**.
+The dataset comprises **14,000+** ear images from **2,000** unique individuals, paired with reference face photos and demographic labels. Designed for **ear recognition** and **biometric identification**, it helps research in **human ear detection**, **recognition accuracy**, and **biometric systems**.— **[Get the data](https://unidata.pro/datasets/human-ear-detection-biometric-dataset/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=ear-detection-dataset)**
+
 
 ## Dataset characteristics:
 | Characteristic          | Data                                                              |
